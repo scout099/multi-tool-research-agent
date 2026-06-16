@@ -1,0 +1,5 @@
+.env
+*.key
+__pycache__/
+*.pyc
+research_notes.txt
